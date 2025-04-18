@@ -1,4 +1,4 @@
-# JensonUSA_SQL_based_Data_Analysis
+# JensonUSA_SQL-based_Data_Analysis
 As a data analyst at Jenson's, crafted SQL queries to derive insights on customer behaviour, staff performance, inventory management, and store operations.
 
 Skills: MySQL · Microsoft PowerPoint · Programming with SQL
