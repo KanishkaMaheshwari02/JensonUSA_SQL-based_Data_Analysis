@@ -1,7 +1,7 @@
 # JensonUSA_SQL-based_Data_Analysis
 As a data analyst at Jenson's, crafted SQL queries to derive insights on customer behaviour, staff performance, inventory management, and store operations.
 
-Skills: MySQL · Microsoft PowerPoint · Programming with SQL
+Skills: MySQL · Microsoft PowerPoint · Advanced SQL
 
 [Click here to view the entire presentation](https://github.com/KanishkaMaheshwari02/JensonUSA_SQL_based_Data_Analysis/blob/main/Jenson%20USA%20(SQL-based%20Data%20Analysis)%20by%20Kanishka%20Maheshwari.pdf)
 ---
